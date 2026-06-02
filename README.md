@@ -11,7 +11,7 @@ This project investigates the semantic brittleness and "epistemic arrogance" of 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/VLM-Lexical-Overfitting.git](https://github.com/YOUR_USERNAME/VLM-Lexical-Overfitting.git)
-   cd VLM-Lexical-Overfitting
+   cd VLM-Lexical-Overfitting```
 
 2. Install the required Python packages:
    ```bash
