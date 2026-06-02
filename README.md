@@ -33,7 +33,7 @@ Step 1: Automated UMLS Prompt Sanitization
 To guarantee the strict removal of latent medical ontologies from non-expert prompts ($T_{layman}$ and $T_{exclusion}$), we utilize an asynchronous pipeline interfacing with the NIH UMLS REST API.(Open scripts/1_umls_sanitization.py and replace the placeholder API key with your own, or pass it via environment variable).
 
   ```bash
-  python scripts/1_umls_sanitization.py
+  python scripts/1_umls_sanitization.py```
 
 
 Step 2: Frozen-Inference Feature Extraction
