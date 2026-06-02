@@ -11,12 +11,12 @@ This project investigates the semantic brittleness and "epistemic arrogance" of 
 1. Clone this repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/VLM-Lexical-Overfitting.git](https://github.com/YOUR_USERNAME/VLM-Lexical-Overfitting.git)
-   cd VLM-Lexical-Overfitting```
+   cd VLM-Lexical-Overfitting
 
 2. Install the required Python packages:
    ```bash
    pip install torch torchvision numpy pandas tqdm pillow transformers aiohttp matplotlib seaborn scikit-learn statsmodels
-   pip install git+[https://github.com/jusiro/FLAIR.git](https://github.com/jusiro/FLAIR.git)```
+   pip install git+[https://github.com/jusiro/FLAIR.git](https://github.com/jusiro/FLAIR.git)
 
 3. Request an NIH UMLS API Key (required only if running the automated semantic sanitization pipeline).
 
