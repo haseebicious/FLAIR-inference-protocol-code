@@ -1,0 +1,323 @@
+{
+  "metadata": {
+    "generated_utc": "2026-11-21T20:51:05.495529+00:00",
+    "design_note": "Strictly a priori 50 information-preserving ICDR clinical paraphrases (5 grades x 10 variants); zero test-set tuning.",
+    "invariants": {
+      "n_prompts": 50,
+      "grades": {
+        "noDR": 10,
+        "mildDR": 10,
+        "modDR": 10,
+        "sevDR": 10,
+        "prolDR": 10
+      },
+      "tlabel_exact_leaks": 0,
+      "max_raw_tokens": 56,
+      "max_wrapped_tokens": 61,
+      "tokenizer_limit": 77,
+      "zero_truncation": true
+    }
+  },
+  "prompts": [
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 1,
+      "Prompt_Text": "Normal fundus examination showing intact retinal vasculature with no microaneurysms, intraretinal haemorrhages, or hard exudates."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 2,
+      "Prompt_Text": "Posterior pole assessment reveals an unremarkable healthy retina free of capillary microaneurysms, dot-and-blot haemorrhages, and lipid exudates."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 3,
+      "Prompt_Text": "Ophthalmoscopic evaluation demonstrates normal retinal vessels across all quadrants without microaneurysms, retinal haemorrhages, or exudates."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 4,
+      "Prompt_Text": "Retinal imaging confirms healthy optic disc and macula with complete absence of microaneurysms, intraretinal haemorrhages, and exudative lesions."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 5,
+      "Prompt_Text": "Fundus is clear of relevant haemorrhages, capillary microaneurysms, cotton wool spots, and hard exudates across all four quadrants."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 6,
+      "Prompt_Text": "Clinical inspection identifies normal retinal architecture with zero microaneurysms, zero haemorrhages, and no referable retinal lesions."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 7,
+      "Prompt_Text": "Unremarkable ocular fundus exhibiting preserved vascular calibre and no saccular microaneurysms, haemorrhages, or exudates."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 8,
+      "Prompt_Text": "Healthy retinal background lacking capillary outpouchings, intraretinal bleeding, lipid exudates, or referable microvascular abnormalities."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 9,
+      "Prompt_Text": "Fundus photograph displays clear macular and peripapillary retina entirely devoid of microaneurysms, haemorrhages, and exudates."
+    },
+    {
+      "Grade": "noDR",
+      "Family": "T_control_c",
+      "Variation_Number": 10,
+      "Prompt_Text": "Diagnostic fundus review establishes normal retina without microaneurysms, intraretinal haemorrhages, exudates, or diabetic microvascular lesions."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 1,
+      "Prompt_Text": "Fundus examination reveals microaneurysms only, presenting as isolated retinal capillary microaneurysms as the sole microvascular abnormality."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 2,
+      "Prompt_Text": "Posterior pole imaging shows solely a few saccular capillary microaneurysms, representing early non-proliferative retinal involvement."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 3,
+      "Prompt_Text": "Retinal evaluation identifies scattered capillary microaneurysms exclusively as the only visible fundus lesion."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 4,
+      "Prompt_Text": "Ophthalmoscopic inspection detects microaneurysms alone, consisting of a few pinpoint red capillary outpouchings on an otherwise unremarkable retina."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 5,
+      "Prompt_Text": "Findings are strictly limited to sparse retinal microaneurysms as the single earliest microvascular sign."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 6,
+      "Prompt_Text": "Clinical fundus assessment demonstrates isolated capillary microaneurysms only, confined to minimal early non-proliferative changes."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 7,
+      "Prompt_Text": "A few discrete retinal microaneurysms are visible as the exclusive abnormality in an otherwise intact fundus."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 8,
+      "Prompt_Text": "Retinal photograph exhibits microaneurysms exclusively, appearing as rare small red saccular capillary dilatations."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 9,
+      "Prompt_Text": "Examination confirms early microvascular change consisting solely of few isolated retinal microaneurysms."
+    },
+    {
+      "Grade": "mildDR",
+      "Family": "T_control_c",
+      "Variation_Number": 10,
+      "Prompt_Text": "Only scattered capillary microaneurysms are observed on the fundus as the sole diabetic microvascular finding."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 1,
+      "Prompt_Text": "Fundus shows microaneurysms accompanied by intraretinal haemorrhages in one to three quadrants, hard exudates, and cotton wool spots, below severe four-quadrant thresholds."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 2,
+      "Prompt_Text": "Retinal examination reveals dot-and-blot haemorrhages in fewer than four quadrants alongside capillary microaneurysms, lipid exudates, and cotton wool spots."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 3,
+      "Prompt_Text": "Posterior pole displays more than isolated microaneurysms, featuring moderate intraretinal haemorrhages in limited quadrants, hard exudates, and nerve fibre layer infarcts."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 4,
+      "Prompt_Text": "Clinical imaging demonstrates retinal microaneurysms, hard exudates, cotton wool spots, and intraretinal haemorrhages across one to three quadrants below 4-2-1 thresholds."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 5,
+      "Prompt_Text": "Ophthalmoscopic findings include scattered microaneurysms, moderate dot-blot haemorrhages in fewer than four quadrants, hard exudates, and focal cotton wool spots."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 6,
+      "Prompt_Text": "Retina exhibits microaneurysms plus intraretinal haemorrhages in up to three quadrants, yellowish lipid exudates, and cotton wool spots, short of four-quadrant severity."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 7,
+      "Prompt_Text": "Fundus evaluation identifies microaneurysms, multifocal intraretinal haemorrhages confined to one to three quadrants, hard exudates, and cotton wool spots."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 8,
+      "Prompt_Text": "Assessment reveals moderate microvascular pathology including microaneurysms, exudates, cotton wool spots, and haemorrhages in fewer than four quadrants."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 9,
+      "Prompt_Text": "Retinal photograph presents intraretinal haemorrhages in one to three quadrants together with microaneurysms, hard lipid exudates, and soft cotton wool spots."
+    },
+    {
+      "Grade": "modDR",
+      "Family": "T_control_c",
+      "Variation_Number": 10,
+      "Prompt_Text": "Examination notes microaneurysms, hard exudates, cotton wool spots, and moderate dot-and-blot haemorrhages across limited quadrants below four-quadrant thresholds."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 1,
+      "Prompt_Text": "Fundus meets the 4-2-1 criteria with over twenty intraretinal haemorrhages in each of all four quadrants, definite venous beading in two or more quadrants, or prominent IRMA."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 2,
+      "Prompt_Text": "Retinal examination demonstrates severe non-proliferative 4-2-1 lesions: extensive dot-and-blot haemorrhages across all four quadrants, multi-quadrant venous beading, and prominent IRMA."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 3,
+      "Prompt_Text": "Posterior pole exhibits more than twenty haemorrhages in every retinal quadrant, venous beading in at least two quadrants, or distinct intraretinal microvascular abnormalities."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 4,
+      "Prompt_Text": "Clinical imaging reveals widespread severe intraretinal haemorrhages throughout all four quadrants alongside venous calibre beading in two or more quadrants and prominent IRMA."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 5,
+      "Prompt_Text": "Ophthalmoscopic evaluation satisfies the 4-2-1 rule through four-quadrant severe haemorrhages, venous beading in two or more quadrants, and intraretinal microvascular shunts."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 6,
+      "Prompt_Text": "Retina displays extensive haemorrhages exceeding twenty per quadrant in all four quadrants, beaded retinal veins in multiple quadrants, and prominent IRMA."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 7,
+      "Prompt_Text": "Assessment confirms advanced intraretinal pathology: severe four-quadrant haemorrhages, multi-quadrant venous beading, and prominent capillary IRMA loops in at least one quadrant."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 8,
+      "Prompt_Text": "Fundus photograph shows all four quadrants involved by heavy intraretinal haemorrhages, venous beading across two or more quadrants, or prominent IRMA in at least one quadrant."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 9,
+      "Prompt_Text": "Diagnostic inspection establishes 4-2-1 rule severity via dense four-quadrant retinal haemorrhages, segmental venous beading in two or more quadrants, and intraretinal microvascular abnormalities."
+    },
+    {
+      "Grade": "sevDR",
+      "Family": "T_control_c",
+      "Variation_Number": 10,
+      "Prompt_Text": "Severe non-proliferative intraretinal disease is present, characterized by over twenty haemorrhages in all four quadrants, venous beading in two or more quadrants, and prominent IRMA."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 1,
+      "Prompt_Text": "Fundus examination reveals neovascularization at the optic disc or elsewhere on the retina accompanied by vitreous or preretinal haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 2,
+      "Prompt_Text": "Posterior pole shows active epiretinal neovascular fronds on the optic nerve head or retinal surface alongside preretinal or vitreous bleeding."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 3,
+      "Prompt_Text": "Ophthalmoscopic evaluation detects proliferative new vessels at the disc (NVD) or elsewhere (NVE), complicated by subhyaloid, preretinal, or vitreous haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 4,
+      "Prompt_Text": "Retinal imaging demonstrates abnormal neovascular proliferation arising from the optic disc or retina, together with preretinal or vitreous haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 5,
+      "Prompt_Text": "Clinical inspection identifies fragile neovascular tufts on the optic disc or elsewhere, with associated preretinal blood or vitreous cavity haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 6,
+      "Prompt_Text": "Fundus photograph displays neovascularization at the optic nerve head and retinal periphery alongside vitreous or preretinal haemorrhage and background microangiopathy."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 7,
+      "Prompt_Text": "Assessment confirms active retinal neovascularization at the optic disc or elsewhere, accompanied by preretinal or vitreous haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 8,
+      "Prompt_Text": "Retina exhibits proliferating abnormal new vessels at the optic disc or retinal surface, producing preretinal or vitreous haemorrhage."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 9,
+      "Prompt_Text": "Diagnostic fundus review reveals neovascular networks at the disc or elsewhere on the retina, with concomitant preretinal or vitreous bleeding."
+    },
+    {
+      "Grade": "prolDR",
+      "Family": "T_control_c",
+      "Variation_Number": 10,
+      "Prompt_Text": "Proliferative vascular changes are present, featuring neovascularization of the disc or elsewhere and associated vitreous or preretinal haemorrhage."
+    }
+  ]
+}

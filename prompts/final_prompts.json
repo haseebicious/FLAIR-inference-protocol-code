@@ -1,0 +1,1202 @@
+[
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 1,
+    "Prompt_Text": "Fundus examination reveals no relevant haemorrhages, microaneurysms or exudates."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 2,
+    "Prompt_Text": "There is a complete absence of any microaneurysms."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 3,
+    "Prompt_Text": "The retina presents with absolutely no referable lesions."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 4,
+    "Prompt_Text": "Clinical assessment shows no microaneurysms or exudates."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 5,
+    "Prompt_Text": "There are no relevant haemorrhages detected in any quadrant."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 6,
+    "Prompt_Text": "Ocular evaluation confirms no referable lesions present."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 7,
+    "Prompt_Text": "Fundus is clear of microaneurysms and relevant haemorrhages."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 8,
+    "Prompt_Text": "Imaging displays no referable lesions, microaneurysms, or exudates."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 9,
+    "Prompt_Text": "Visual inspection yields no relevant haemorrhages, microaneurysms or exudates."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_expert",
+    "Variation_Number": 10,
+    "Prompt_Text": "Patient exhibits no referable lesions and no microaneurysms."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "The back of the eye looks perfectly healthy with no red fluid escaping."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "There are no tiny swollen blood vessels to be seen."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "The eye doctor found no concerning marks or spots."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 4,
+    "Prompt_Text": "No signs of leaking fluids or blood in the eye."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "The eye is completely clear with no small red dots."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "There is no abnormal red fluid in the back of the eye."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "The inside of the eye shows no unhealthy changes at all."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "No signs of any damage to the small blood vessels."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "The eye exam shows a clear and healthy surface."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "There are absolutely no spots of fluid or blood visible."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 1,
+    "Prompt_Text": "no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 2,
+    "Prompt_Text": "no diabetic retinopathy."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 3,
+    "Prompt_Text": "Diagnosis: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 4,
+    "Prompt_Text": "Class: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 5,
+    "Prompt_Text": "Grade: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 6,
+    "Prompt_Text": "Category: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 7,
+    "Prompt_Text": "Label: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 8,
+    "Prompt_Text": "Target: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 9,
+    "Prompt_Text": "Classification: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_label",
+    "Variation_Number": 10,
+    "Prompt_Text": "Result: no diabetic retinopathy"
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "The eye is healthy and explicitly lacks even a few tiny blood blisters."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Clear vision area, firmly excluding the presence of a few hard fluid spots."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "No unhealthy marks are seen, meaning a few small red drops are totally absent."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Normal eye back, without any signs of a few tiny swollen vessels."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Clean eye surface, strictly excluding a few small red dots."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Healthy blood flow, with zero evidence of a few hard fluid leaks."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "No unhealthy state present; we can rule out finding a few tiny red blisters."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Spotless retina, confirming there are not even a few small red areas."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "Completely normal eye, specifically lacking a few hard fluid deposits."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Perfectly clear view, rejecting any sign of a few tiny swollen vessels."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 1,
+    "Prompt_Text": "Observation of few microaneurysms."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 2,
+    "Prompt_Text": "Presence of few hard exudates in the macular region."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 3,
+    "Prompt_Text": "Detection of few retinal haemorrhages."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 4,
+    "Prompt_Text": "The image shows few microaneurysms scattered in the fundus."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 5,
+    "Prompt_Text": "There are few hard exudates noted during the exam."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 6,
+    "Prompt_Text": "Evaluation reveals a few retinal haemorrhages."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 7,
+    "Prompt_Text": "Signs include few microaneurysms and rare bleeding."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 8,
+    "Prompt_Text": "Few hard exudates are visible on the retinal surface."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 9,
+    "Prompt_Text": "Only a few retinal haemorrhages can be identified."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_expert",
+    "Variation_Number": 10,
+    "Prompt_Text": "Patient displays few microaneurysms and few hard exudates."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "There are a few tiny swollen blood vessels."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "A small amount of yellow fluid spots can be seen."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "The eye has a few small red fluid spots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 4,
+    "Prompt_Text": "We can see a couple of tiny red dots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "There is a small amount of hard leakage spots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "A few minor red drops are visible in the back."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "Just a handful of tiny blood blisters are present."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "A few hard, yellow crusts have formed inside."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "There are isolated, small red fluid marks in the eye."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "Only a few tiny spots where blood vessels bulged."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 1,
+    "Prompt_Text": "mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 2,
+    "Prompt_Text": "mild diabetic retinopathy."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 3,
+    "Prompt_Text": "Diagnosis: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 4,
+    "Prompt_Text": "Class: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 5,
+    "Prompt_Text": "Grade: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 6,
+    "Prompt_Text": "Category: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 7,
+    "Prompt_Text": "Label: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 8,
+    "Prompt_Text": "Target: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 9,
+    "Prompt_Text": "Classification: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_label",
+    "Variation_Number": 10,
+    "Prompt_Text": "Result: mild diabetic retinopathy"
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "A few tiny swollen vessels exist, but there are no fluffy white cotton spots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Small red dots are present, explicitly excluding many red marks across several sections."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Few hard leaks noted, without any signs of many large red areas."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "A couple of tiny red dots are visible, but white fluffy patches are completely absent."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Has a few small red drops, firmly ruling out a high number of red marks."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Tiny red blisters found, excluding any widespread red fluid in few sections."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "Shows a few yellow crusts, but lacks any fluffy white cotton-like spots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Minor red fluid is there, strictly excluding many red spots everywhere."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "A few tiny swollen spots seen, but zero fluffy patches observed."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Small hard leaks are present; however, there are not many red patches."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 1,
+    "Prompt_Text": "Findings show retinal haemorrhages in few quadrants."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 2,
+    "Prompt_Text": "There are many haemorrhages distributed across the retina."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 3,
+    "Prompt_Text": "The image highlights the presence of cotton wool spots."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 4,
+    "Prompt_Text": "Retinal haemorrhages are clearly visible in a few quadrants."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 5,
+    "Prompt_Text": "Observation of many haemorrhages and lesions."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 6,
+    "Prompt_Text": "Cotton wool spots are detected upon examination."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 7,
+    "Prompt_Text": "Displays retinal haemorrhages in a few quadrants."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 8,
+    "Prompt_Text": "Widespread presence of many haemorrhages."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 9,
+    "Prompt_Text": "Diagnosis supported by cotton wool spots."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_expert",
+    "Variation_Number": 10,
+    "Prompt_Text": "Features many haemorrhages and cotton wool spots."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "There is red fluid escaping in a couple of different sections of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "Many red dots are scattered around the back of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "We can see fluffy white patches that look like cotton."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 4,
+    "Prompt_Text": "Blood has leaked in a few areas inside the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "There are lots of red fluid marks visible."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "Soft, white fluffy spots have appeared on the eye surface."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "Red fluid is noticeable in several parts of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "A high number of red fluid marks can be seen."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "Cotton-like white marks are covering parts of the inside."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "Many red marks and some white fluffy areas are present."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 1,
+    "Prompt_Text": "moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 2,
+    "Prompt_Text": "moderate diabetic retinopathy."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 3,
+    "Prompt_Text": "Diagnosis: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 4,
+    "Prompt_Text": "Class: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 5,
+    "Prompt_Text": "Grade: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 6,
+    "Prompt_Text": "Category: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 7,
+    "Prompt_Text": "Label: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 8,
+    "Prompt_Text": "Target: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 9,
+    "Prompt_Text": "Classification: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_label",
+    "Variation_Number": 10,
+    "Prompt_Text": "Result: moderate diabetic retinopathy"
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "Many red marks are found, but strictly no red fluid in all four sections."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Fluffy white patches exist, firmly excluding any lumpy, swollen veins."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Red fluid in a few areas is seen, but zero abnormal tiny vessels within the retina."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Many red drops are visible, explicitly ruling out heavy red fluid in all four corners."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Cotton-like spots present, but the veins definitely do not look like a string of beads."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Red fluid in some parts, completely lacking any weird new micro-vessels in the layer."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "Lots of red spots, yet there is no sign of red fluid across all four eye quadrants."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "White fluffy marks are there, excluding any pinched or swollen vein shapes."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "Red marks noted in few sections, but totally negative for intra-layer vessel abnormalities."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Many red marks confirmed, expressly ruling out red fluid in every single quadrant."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 1,
+    "Prompt_Text": "Presents with severe haemorrhages in all four quadrants."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 2,
+    "Prompt_Text": "Clear indication of venous beading in the retina."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 3,
+    "Prompt_Text": "Shows notable intraretinal microvascular abnormalities."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 4,
+    "Prompt_Text": "Severe haemorrhages are found across all four quadrants."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 5,
+    "Prompt_Text": "Venous beading is heavily observed in the blood vessels."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 6,
+    "Prompt_Text": "Intraretinal microvascular abnormalities are highly prevalent."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 7,
+    "Prompt_Text": "Fundus exhibits severe haemorrhages in all four quadrants."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 8,
+    "Prompt_Text": "Vascular changes include distinct venous beading."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 9,
+    "Prompt_Text": "Presence of prominent intraretinal microvascular abnormalities."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_expert",
+    "Variation_Number": 10,
+    "Prompt_Text": "Displays venous beading and severe haemorrhages in all four quadrants."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "There is heavy red fluid in every corner of the eye."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "The veins look lumpy, like a string of beads."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "There are strange, looping tiny blood vessels inside the eye layers."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 4,
+    "Prompt_Text": "Massive amounts of blood are seen in all four sections."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "The larger blood lines are pinched and swollen in spots."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "Abnormal, short tiny blood paths are trapped in the eye wall."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "Intense red fluid covers the entire back of the eye."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "Veins are no longer smooth and look bumpy."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "Weird looping tiny vessels are growing inside the back tissue."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "All four areas show large patches of deep red fluid."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 1,
+    "Prompt_Text": "severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 2,
+    "Prompt_Text": "severe diabetic retinopathy."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 3,
+    "Prompt_Text": "Diagnosis: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 4,
+    "Prompt_Text": "Class: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 5,
+    "Prompt_Text": "Grade: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 6,
+    "Prompt_Text": "Category: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 7,
+    "Prompt_Text": "Label: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 8,
+    "Prompt_Text": "Target: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 9,
+    "Prompt_Text": "Classification: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_label",
+    "Variation_Number": 10,
+    "Prompt_Text": "Result: severe diabetic retinopathy"
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "Heavy red fluid in all corners is seen, but strictly no brand new blood vessels growing."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Lumpy veins are present, absolutely excluding any new vessel growth at the nerve center."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Strange tiny vessels inside the layers, but firmly rejecting any new weak vessels forming on top."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Massive amounts of red fluid in all four sections, specifically excluding new vessel creation."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Pinched veins are observed, but zero new fragile blood vessel networks are growing."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Abnormal inner paths noted, completely devoid of any fresh, weak vascular growth."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "Intense red fluid everywhere, but explicitly no new vessel sprouting."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Bumpy veins confirmed, thoroughly ruling out the formation of new red networks."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "Weird looping vessels inside tissue exist, but no new vessels are growing out."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Deep red fluid in all four areas, firmly negating the start of new vessel generation."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 1,
+    "Prompt_Text": "Diabetic retinopathy with neovascularization at the disk."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 2,
+    "Prompt_Text": "Clear evidence of neovascularization."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 3,
+    "Prompt_Text": "Image shows neovascularization at the disk."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 4,
+    "Prompt_Text": "Prominent neovascularization observed."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 5,
+    "Prompt_Text": "Diabetic retinopathy complicated by neovascularization."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 6,
+    "Prompt_Text": "Neovascularization is present in the retinal layers."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 7,
+    "Prompt_Text": "Signs point to diabetic retinopathy with neovascularization at the disk."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 8,
+    "Prompt_Text": "Active neovascularization is definitively noted."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 9,
+    "Prompt_Text": "Characterized primarily by neovascularization."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_expert",
+    "Variation_Number": 10,
+    "Prompt_Text": "Neovascularization at the disk is vividly displayed."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "Unhealthy state where completely new, weak blood vessels are growing at the main nerve."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "New, fragile blood vessels are forming where they shouldn't."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "We can see fresh, abnormal blood lines sprouting on the nerve block."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 4,
+    "Prompt_Text": "Harmful new blood vessels have started growing."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "The eye is trying to grow new, weak pipes for blood."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "Dangerous new blood channels are spreading."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "New, leaky blood vessels are growing right on the eye's main cable."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "Fresh tangles of thin blood vessels have appeared."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "The body is making bad, new blood vessels in the eye."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "New abnormal blood lines are actively branching out."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 1,
+    "Prompt_Text": "proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 2,
+    "Prompt_Text": "proliferative diabetic retinopathy."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 3,
+    "Prompt_Text": "Diagnosis: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 4,
+    "Prompt_Text": "Class: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 5,
+    "Prompt_Text": "Grade: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 6,
+    "Prompt_Text": "Category: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 7,
+    "Prompt_Text": "Label: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 8,
+    "Prompt_Text": "Target: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 9,
+    "Prompt_Text": "Classification: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_label",
+    "Variation_Number": 10,
+    "Prompt_Text": "Result: proliferative diabetic retinopathy"
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "New weak vessels are growing, completely excluding any earlier stage that lacks these new growths."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Brand new blood lines are forming, meaning this is not a stage without new vessel creation."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Abnormal fresh sprouting seen, strictly ruling out any earlier phase missing these new pipes."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Harmful new vessels have started, definitively excluding conditions where no new vessels exist."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Leaky new channels are spreading, nullifying any diagnosis that says no new vessels have grown."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Fresh tangles of thin vessels appeared, solidly rejecting stages defined by an absence of new growth."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "New weak vessels on the main nerve, expressly excluding non-growing earlier eye changes."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Bad new blood lines branching out, leaving out any state where abnormal growth hasn't started."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "New vessel formation is active, confidently excluding phases without this fresh sprouting."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "The eye is growing new fragile vessels, eliminating any classification that lacks new vessel presence."
+  }
+]

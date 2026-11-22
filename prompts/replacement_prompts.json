@@ -1,0 +1,248 @@
+[
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "The back of the eye looks perfectly healthy with no red fluid escaping."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "There is no abnormal red fluid in the back of the eye."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "No unhealthy marks are seen, meaning a few small red drops are totally absent."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Clean eye surface, strictly excluding a few small red dots."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "No unhealthy state present; we can rule out finding a few tiny red blisters."
+  },
+  {
+    "Grade": "noDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Spotless retina, confirming there are not even a few small red areas."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "The eye has a few small red fluid spots."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "A few minor red drops are visible in the back."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_layman",
+    "Variation_Number": 9,
+    "Prompt_Text": "There are isolated, small red fluid marks in the eye."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 2,
+    "Prompt_Text": "Small red dots are present, explicitly excluding many red marks across several sections."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Few hard leaks noted, without any signs of many large red areas."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 5,
+    "Prompt_Text": "Has a few small red drops, firmly ruling out a high number of red marks."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Tiny red blisters found, excluding any widespread red fluid in few sections."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Minor red fluid is there, strictly excluding many red spots everywhere."
+  },
+  {
+    "Grade": "mildDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Small hard leaks are present; however, there are not many red patches."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "There is red fluid escaping in a couple of different sections of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 2,
+    "Prompt_Text": "Many red dots are scattered around the back of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 5,
+    "Prompt_Text": "There are lots of red fluid marks visible."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "Red fluid is noticeable in several parts of the eye."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "A high number of red fluid marks can be seen."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "Many red marks and some white fluffy areas are present."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "Many red marks are found, but strictly no red fluid in all four sections."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Red fluid in a few areas is seen, but zero abnormal tiny vessels within the retina."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Many red drops are visible, explicitly ruling out heavy red fluid in all four corners."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 6,
+    "Prompt_Text": "Red fluid in some parts, completely lacking any weird new micro-vessels in the layer."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "Lots of red spots, yet there is no sign of red fluid across all four eye quadrants."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 9,
+    "Prompt_Text": "Red marks noted in few sections, but totally negative for intra-layer vessel abnormalities."
+  },
+  {
+    "Grade": "modDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Many red marks confirmed, expressly ruling out red fluid in every single quadrant."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "There is heavy red fluid in every corner of the eye."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 3,
+    "Prompt_Text": "There are strange, looping tiny blood vessels inside the eye layers."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 6,
+    "Prompt_Text": "Abnormal, short tiny blood paths are trapped in the eye wall."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 7,
+    "Prompt_Text": "Intense red fluid covers the entire back of the eye."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 8,
+    "Prompt_Text": "Veins are no longer smooth and look bumpy."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_layman",
+    "Variation_Number": 10,
+    "Prompt_Text": "All four areas show large patches of deep red fluid."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 1,
+    "Prompt_Text": "Heavy red fluid in all corners is seen, but strictly no brand new blood vessels growing."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 4,
+    "Prompt_Text": "Massive amounts of red fluid in all four sections, specifically excluding new vessel creation."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 7,
+    "Prompt_Text": "Intense red fluid everywhere, but explicitly no new vessel sprouting."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 8,
+    "Prompt_Text": "Bumpy veins confirmed, thoroughly ruling out the formation of new red networks."
+  },
+  {
+    "Grade": "sevDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 10,
+    "Prompt_Text": "Deep red fluid in all four areas, firmly negating the start of new vessel generation."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_layman",
+    "Variation_Number": 1,
+    "Prompt_Text": "Unhealthy state where completely new, weak blood vessels are growing at the main nerve."
+  },
+  {
+    "Grade": "prolDR",
+    "Family": "T_exclusion",
+    "Variation_Number": 3,
+    "Prompt_Text": "Abnormal fresh sprouting seen, strictly ruling out any earlier phase missing these new pipes."
+  }
+]

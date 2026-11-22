@@ -1,0 +1,42 @@
+# Environment secrets & API keys
+.env
+*.env
+*.key
+*.pem
+
+# Raw clinical datasets & large binary outputs (do not commit MESSIDOR-2 images)
+data/IMAGES/
+data/Messidor-2/
+data/*.csv
+!data/images/placeholder
+*.npy
+*.npz
+
+# Generated experiment artifacts, figures, and logs
+results/
+artifacts/
+figures/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.pdf
+*.log
+
+# Python & Jupyter caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# OS & editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
